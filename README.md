@@ -13,7 +13,8 @@ Current features:
 Planned features:
      Adding a desktop entry a.k.a. shortcut.
      Notification telling the user that the download has finished, with an option to install it whenever he/she wishes.
-     Compatibility with additional OS's.
+     Support for more channels (stable, beta, etc.)
+     Compatibility with additional OSs.
      and more to come...
      
      
