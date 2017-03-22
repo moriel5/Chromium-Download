@@ -8,11 +8,17 @@ Current features:
      Downloading Chromium - Currently only snapshot builds.
      Installing Chromium
      Launching Chromium from the terminal, with the **chromium** command.
+     Support for Linux x86-64
                   
 Planned features:
      Adding a desktop entry a.k.a. shortcut.
      Notification telling the user that the download has finished, with an option to install it whenever he/she wishes.
+     Compatibility with additional OS's.
      and more to come...
+     
+     
+     
+**Warning**: This script, at this stage of it's life, requires you to run it as root, so be careful if you have no idea what you are doing.
      
      
      Enjoy!
